@@ -291,6 +291,7 @@ textarea {
 
 .list-item input[type="text"] {
   background: transparent;
+  color: #000000;
   width: 100%;
 }
 
@@ -327,7 +328,7 @@ textarea {
 }
 
 .list-item.TASK_ARCHIVED input[type="text"] {
-  color: #a0aec0;
+  color: #000000;
   text-decoration: line-through;
 }
 
@@ -344,7 +345,7 @@ textarea {
 }
 
 .list-item.checked input[type="text"] {
-  color: #ccc;
+  color: #000;
   text-decoration: line-through;
 }
 
